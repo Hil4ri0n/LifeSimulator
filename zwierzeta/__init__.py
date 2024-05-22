@@ -1,0 +1,1 @@
+__all__ = ['Antylopa', 'CyberOwca', 'Czlowiek', 'Lis', 'Owca', 'Wilk', 'Zolw']

@@ -1,0 +1,18 @@
+5 5 5 True False
+TypOrganizmu.LIS 4 0 3 0 False
+TypOrganizmu.WILK 3 4 9 0 False
+TypOrganizmu.CZLOWIEK 1 0 5 0 False 0 0 False True
+TypOrganizmu.ZOLW 2 1 2 0 False
+TypOrganizmu.ZOLW 2 3 2 0 False
+TypOrganizmu.TRAWA 4 4 0 4 False
+TypOrganizmu.TRAWA 0 2 0 3 False
+TypOrganizmu.TRAWA 0 4 0 3 False
+TypOrganizmu.TRAWA 1 2 0 2 False
+TypOrganizmu.TRAWA 0 3 0 2 False
+TypOrganizmu.TRAWA 2 4 0 2 False
+TypOrganizmu.TRAWA 1 1 0 1 False
+TypOrganizmu.TRAWA 1 3 0 1 False
+TypOrganizmu.BARSZCZ_SOSNOWSKIEGO 0 1 10 0 False
+TypOrganizmu.MLECZ 2 2 0 0 False
+TypOrganizmu.TRAWA 1 4 0 0 False
+TypOrganizmu.TRAWA 4 3 0 5 False
