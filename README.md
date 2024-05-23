@@ -1,4 +1,7 @@
 # Life Simulator
+<div align="center">
+    <img src="./python_lifeSimulator.png" alt="Game Screenshot" style="width: 70%; margin-right: 5%;" />
+</div>
 
 ## Description
 This project is a graphical user interface (GUI) application for simulating a world populated with various organisms. 
